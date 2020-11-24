@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        nuxtstatic
+        nuxtstatic test
       </h1>
       <div class="links">
         <a
